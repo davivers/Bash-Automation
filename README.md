@@ -1,2 +1,2 @@
 # Bash-Automation
-Dump repository for bash automations designed to kali tools
+<p>Repository for bash automation scripts for default kali tools</p>
